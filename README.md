@@ -1,1 +1,2 @@
 # FIT1043-A2
+FIT1043 Introduction to data science assignment 2. In this assignment we do data analysis and train machine learning models based on the "FIT1043-Essay-Features.csv" file given. From the dataset, I used scikit learn ML library to separate the data into training and test data. The data is then used to train a Support Vector Machine (SVM) which can be used on both regression and classification tasks. I also used the data to train a decision tree model to classify the data. 
